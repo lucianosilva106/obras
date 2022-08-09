@@ -8,7 +8,6 @@ body{
 .logohome{
     width:230px; /*width of your image*/ 
     height:180px; /*height of your image*/
-/*    background-image:url('../img/Reuser_logo1.ico'); */
     margin:10px; /* If you want no margin */
     padding: 0; /*if your want to padding */
     border: transparent;
@@ -21,23 +20,19 @@ body{
  .resumoprojeto{
     width:1280px; /*width of your image*/ 
     height:720px; /*height of your image*/
-/*    background-image:url('../img/resumoproj2pq.jpg'); */
     margin:10px; /* If you want no margin */
     padding: 0; /*if your want to padding */
     border: transparent;
  }
  #imagemcontato{
-/*     background-image: url("/src/paginas/img/recycling-animada.svg"); */
      background-size: auto;
      background-position: center;
  }
  #homebackground1{
-/*    background-image: url("/src/paginas/img/videotape-animada.svg"); */
     background-size: 100%;
     background-position: center;
 }
 #homebackground2{
-/*    background-image: url("/src/paginas/img/processing-thoughts-animada.svg"); */
     background-size: auto;
     background-position: center;
 }
